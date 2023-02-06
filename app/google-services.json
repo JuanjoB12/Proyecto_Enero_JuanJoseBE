@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405540709130",
+    "project_id": "proyecto-enero-juanjosebe",
+    "storage_bucket": "proyecto-enero-juanjosebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405540709130:android:86a2f51fa9709d640e90f3",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_enero_juanjosebe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405540709130-n833gcfavccjen177gjgjj99au233ioh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7yl50p0-4LZlriw00spbwmmDC0DoPScs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405540709130-n833gcfavccjen177gjgjj99au233ioh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/ITEMHOUSE"
+        android:icon="@drawable/ic_baseline_house_24"
+        android:title="Menú principal"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/ITEMAÑADIR"
+        android:icon="@drawable/icono_anadir"
+        android:title="Añadir"
+        app:showAsAction="always" />
+    <item android:title="Hacer una reserva"
+        android:icon="@drawable/icono_reservas"
+        app:showAsAction="always"
+
+        />
+    <item
+        android:icon="@drawable/icono_info"
+
+        android:title="Conócenos"
+
+        app:showAsAction="always"
+
+
+
+        />
+    <item
+        android:id="@+id/ITEMCERRARSESION"
+        android:icon="@drawable/icono_log_out"
+        android:title="Cerrar sesión"
+        app:showAsAction="ifRoom"
+
+        />
+
+
+</menu>
